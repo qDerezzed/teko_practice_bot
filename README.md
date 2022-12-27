@@ -13,5 +13,4 @@
 
 В качестве базы данных использовано PostgreSQL
 
-Ссылка на бота: https://t.me/TekoPracticeBot
 
